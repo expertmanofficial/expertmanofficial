@@ -2,7 +2,7 @@
 - 👀 I’m interested in privacy, foss projects, K-CyclesX and etc.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Revolt.
-- 📫 How to reach me - follow me <a href="https://venera.social/profile/expertmanofficial/profile" rel="me">here</a>
+- 📫 How to reach me - follow me <a href="https://venera.social/profile/expertmanofficial/" rel="me">here</a>
 
 <!---
 expertmanofficial/expertmanofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
