@@ -14,12 +14,13 @@
 </div>
 
 - 💻 Code is the hobby. The rest is scrolling.
-- 👀 Active on [Reddit](https://www.reddit.com/r/expertmanofficial/), Twitter / X, and [YouTube](https://www.youtube.com/@expertmanofficial).
+- 👀 Active on [Reddit](https://www.reddit.com/r/expertmanofficial/), Twitter / X, [YouTube](https://www.youtube.com/@expertmanofficial), and [Telegram](https://t.me/expertmanofficial).
 
 ## Connect with me
 
 [![Reddit](https://img.shields.io/badge/Reddit-1b2936?style=for-the-badge&logo=reddit&logoColor=f2aa4c&labelColor=101820)](https://www.reddit.com/r/expertmanofficial/)
 [![YouTube](https://img.shields.io/badge/YouTube-1b2936?style=for-the-badge&logo=youtube&logoColor=f2aa4c&labelColor=101820)](https://www.youtube.com/@expertmanofficial)
+[![Telegram](https://img.shields.io/badge/Telegram-1b2936?style=for-the-badge&logo=telegram&logoColor=f2aa4c&labelColor=101820)](https://t.me/expertmanofficial)
 [![X ExpertPlus_](https://img.shields.io/badge/X-1b2936?style=for-the-badge&logo=x&logoColor=f2aa4c&labelColor=101820)](https://x.com/ExpertPlus_)
 [![X imorisune](https://img.shields.io/badge/X-1b2936?style=for-the-badge&logo=x&logoColor=f2aa4c&labelColor=101820)](https://x.com/imorisune)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1b2936?style=for-the-badge&logo=bluesky&logoColor=f2aa4c&labelColor=101820)](https://bsky.app/profile/expertplus.creator.blue)
