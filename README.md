@@ -14,18 +14,21 @@
 </div>
 
 - 💻 Code is the hobby. The rest is scrolling.
-- 👀 Active on [Reddit](https://www.reddit.com/r/expertmanofficial/), Twitter / X, [YouTube](https://www.youtube.com/@expertmanofficial), and [Telegram](https://t.me/expertmanofficial).
+- 💬 Fastest reply: [Twitter](https://x.com/ExpertPlus_). [Reddit](https://www.reddit.com/r/expertmanofficial/) is a maybe, [YouTube](https://www.youtube.com/@expertmanofficial) is a maybe maybe.
+- 👀 Also on [Telegram](https://t.me/expertmanofficial).
 
 ## Connect with me
 
 [![Reddit](https://img.shields.io/badge/Reddit-1b2936?style=for-the-badge&logo=reddit&logoColor=f2aa4c&labelColor=101820)](https://www.reddit.com/r/expertmanofficial/)
 [![YouTube](https://img.shields.io/badge/YouTube-1b2936?style=for-the-badge&logo=youtube&logoColor=f2aa4c&labelColor=101820)](https://www.youtube.com/@expertmanofficial)
 [![Telegram](https://img.shields.io/badge/Telegram-1b2936?style=for-the-badge&logo=telegram&logoColor=f2aa4c&labelColor=101820)](https://t.me/expertmanofficial)
-[![X ExpertPlus_](https://img.shields.io/badge/X-1b2936?style=for-the-badge&logo=x&logoColor=f2aa4c&labelColor=101820)](https://x.com/ExpertPlus_)
-[![X imorisune](https://img.shields.io/badge/X-1b2936?style=for-the-badge&logo=x&logoColor=f2aa4c&labelColor=101820)](https://x.com/imorisune)
+[![Twitter @ExpertPlus_](https://img.shields.io/badge/Twitter-%40ExpertPlus_-1b2936?style=for-the-badge&logo=twitter&logoColor=f2aa4c&labelColor=101820)](https://x.com/ExpertPlus_)
+[![Twitter @imorisune](https://img.shields.io/badge/Twitter-%40imorisune-1b2936?style=for-the-badge&logo=twitter&logoColor=f2aa4c&labelColor=101820)](https://x.com/imorisune)
 [![Bluesky](https://img.shields.io/badge/Bluesky-1b2936?style=for-the-badge&logo=bluesky&logoColor=f2aa4c&labelColor=101820)](https://bsky.app/profile/expertplus.creator.blue)
 [![Mastodon](https://img.shields.io/badge/Mastodon-1b2936?style=for-the-badge&logo=mastodon&logoColor=f2aa4c&labelColor=101820)](https://mementomori.social/@ExpertPlus)
 [![Website](https://img.shields.io/badge/Website-1b2936?style=for-the-badge&logo=googlechrome&logoColor=f2aa4c&labelColor=101820)](https://expertplus.carrd.co)
+
+Bluesky and Mastodon are listed here, but activity there is almost zero, so do not expect a reply there.
 
 ## Tech stack
 
@@ -44,7 +47,7 @@
 
 ![Codex](https://img.shields.io/badge/Codex-1b2936?style=for-the-badge&logoColor=f2aa4c&labelColor=101820)
 ![Claude](https://img.shields.io/badge/Claude-1b2936?style=for-the-badge&logo=anthropic&logoColor=f2aa4c&labelColor=101820)
-![Grok](https://img.shields.io/badge/Grok-1b2936?style=for-the-badge&logo=x&logoColor=f2aa4c&labelColor=101820)
+![Grok](https://img.shields.io/badge/Grok-1b2936?style=for-the-badge&logoColor=f2aa4c&labelColor=101820)
 ![Muse](https://img.shields.io/badge/Muse-1b2936?style=for-the-badge&logoColor=f2aa4c&labelColor=101820)
 
 ## GitHub stats
